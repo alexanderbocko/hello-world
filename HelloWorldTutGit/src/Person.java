@@ -5,9 +5,8 @@ public class Person{
 		private String firstName;
 		private String lastName;
 		
-		public Person(String a, String b) {
+		public Person(String a) {
 			firstName = a;
-			lastName = b;
 		}
 		
 	}
