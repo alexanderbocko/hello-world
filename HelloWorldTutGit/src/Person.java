@@ -8,9 +8,7 @@ public class Person{
 		public Person(String a, String b, int id) {
 			firstName = a;
 			lastName = b;
-			this.id = id;
-		}
-		
+			this.id = id;		
 	}
 	
 }
