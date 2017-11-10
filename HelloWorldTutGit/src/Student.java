@@ -1,6 +1,6 @@
 
 public class Student extends Person{
-	private int studID;
+	private int studId;
 	public Student(){
 		
 	}
